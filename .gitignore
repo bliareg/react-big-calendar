@@ -1,0 +1,8 @@
+node_modules/*
+.idea
+tern-port*
+.tern-project*
+.tags*
+.DS_STORE*
+.jshintrc*
+
